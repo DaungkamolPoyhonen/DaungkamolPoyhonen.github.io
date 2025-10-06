@@ -1,5 +1,10 @@
+---
+layout: default
+title: Home
+---
 # Duangkamol Pöyhönen Web Tehtävä
-Tervetuloa Duangkamol Pöyhönenin web-tehtävään! `#ffffff` 
+Tervetuloa Duangkamol Pöyhönenin web-tehtävään!
+
 Welcome to my Markdown Project site
 
 ## **Italics and Bold**
@@ -141,4 +146,5 @@ To doubt they were kneeling then.
 
 
 ### 📄 Subpage
+
 You can visit my subpage here 👉 [About Me](aboutme.md)
