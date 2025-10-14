@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme 
 title: Duangkamol's Markdown Project
 description: Bookmark this to keep an eye on my project updates!
+markdown: kramdown
+include:
+  - assets
