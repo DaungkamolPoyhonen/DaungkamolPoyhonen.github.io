@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 # Duangkamol Pöyhönen Web Tehtävä
@@ -148,5 +148,6 @@ To doubt they were kneeling then.
 ### 📄 Subpage
 
 You can visit my subpage here 👉 [About Me](aboutme.md)
+
 
 
