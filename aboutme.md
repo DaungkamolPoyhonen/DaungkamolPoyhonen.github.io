@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/css/custom.css">
 
 
 
