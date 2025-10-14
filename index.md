@@ -1,9 +1,11 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 <link rel="stylesheet" href="assets/css/custom.css">
 
----
-layout: page
-title: Home
----
 # Duangkamol Pöyhönen Web Tehtävä
 Tervetuloa Duangkamol Pöyhönenin web-tehtävään!
 
@@ -150,6 +152,7 @@ To doubt they were kneeling then.
 ### 📄 Subpage
 
 You can visit my subpage here 👉 [About Me](aboutme.md)
+
 
 
 
