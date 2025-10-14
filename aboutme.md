@@ -8,7 +8,7 @@ permalink: /about/
 
 ### About me
 
-Hi! I am Duangkamol Pöyhönen. I am 33 year old, marriged but have no children.
+Hi! I am Duangkamol Pöyhönen. I am 33 year old, married but have no children.
 
 I move to Kokkola from Thailand 3 year ago. I live with my husband and our cat🐈‍⬛.
 
