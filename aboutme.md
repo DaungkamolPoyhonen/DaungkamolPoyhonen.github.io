@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: About Me
+---
 
 ## Hei There you are!
 
