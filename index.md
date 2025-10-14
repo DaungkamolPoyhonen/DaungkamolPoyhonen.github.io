@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-permalink: /
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
@@ -152,6 +151,7 @@ To doubt they were kneeling then.
 ### 📄 Subpage
 
 You can visit my subpage here 👉 [About Me](aboutme.md)
+
 
 
 
