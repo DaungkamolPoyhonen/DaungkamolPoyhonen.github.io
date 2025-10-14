@@ -1,8 +1,4 @@
----
-layout: page
-title: About Me
 
----
 
 ## Hei There you are!
 
