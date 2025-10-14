@@ -1,11 +1,19 @@
 body {
-  background-color: #f8f9fa; /* soft gray */
+  background-color: #f8f9fa;
+  color: #2f3542;
+  font-family: "Segoe UI", Roboto, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #004aad; /* blue headers */
+  color: #005f73;
+  font-weight: 700;
 }
 
 a {
-  color: #e83e8c; /* pinkish links */
+  color: #0a9396;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }

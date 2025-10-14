@@ -2,6 +2,9 @@
 layout: default
 title: About Me
 ---
+<link rel="stylesheet" href="assets/style.css">
+
+
 
 ## Hei There you are!
 
